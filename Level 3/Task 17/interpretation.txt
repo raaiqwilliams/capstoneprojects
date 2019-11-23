@@ -1,0 +1,9 @@
+In the data for 2008, the mean Birth Rate decreased whereas the Life Expectancy increased, suggesting an inversely proportional
+relationship between the two values. Afghanistan, for instance, remained in the same cluster despite having a massive increase in
+Life Expectancy from 1953 to 2008.
+
+(2008)South Africa and (1953)United States share a cluster, United States has slightly higher values for both Birth Rate and Life Expectancy.
+
+Countries which showed very little improvement in their data values from 1953 to 2008 are more likely to be in clusters populated by a majority
+of 1953 values, whereas certain first-world countries who had significant boosts to their values are located in seperate clusters with more 2008
+countries.
